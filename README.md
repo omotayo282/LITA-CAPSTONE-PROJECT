@@ -96,6 +96,7 @@
      - Subscription cancellations
      - Subscription types and durations
    - **Interactive Features**: Add slicers to enhance interactive analysis.
+   - **Download Power BI File**: [PROJECT2_PowerBI_Answers.pbix](https://github.com/omotayo282/LITA/blob/main/PROJECT2_PowerBI_Answers.pbix)
 
 ---
 
