@@ -75,7 +75,8 @@
    - **Download Excel File**: [Excel Answer for Project 2](https://github.com/omotayo282/LITA/blob/main/Excel%20Answer%20for%20Project%202.xlsx)
 
 
-**2. SQL**
+
+ **2. SQL**
    - **Database Setup**: Load the customer dataset into SQL Server to perform data queries.
    - **Queries**: Develop SQL queries to answer:
      - Total number of customers by region
@@ -86,6 +87,7 @@
      - Revenue by subscription type
      - Top 3 regions by cancellations
      - Active vs. canceled subscriptions
+   - **Download SQL File**: [SQL Project 2 Answer](https://github.com/omotayo282/LITA/blob/main/SQLProject2_Answer.sql)
 
 **3. Power BI**
    - **Dashboard Creation**: Build a Power BI dashboard visualizing key metrics.
