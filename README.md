@@ -41,6 +41,7 @@
      - Top 5 customers by purchase amount
      - Sales percentage by region
      - Products with no sales in the last quarter
+   - **Download SQL File**: [SQL Project 1 Answer](https://github.com/omotayo282/LITA/blob/main/SQLProject1_Answer.sql)
 
 **3. Power BI**
    - **Dashboard Creation**: Design a Power BI dashboard to showcase insights found in Excel and SQL.
