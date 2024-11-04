@@ -12,6 +12,12 @@
 
 #### Instructions and Workflow
 
+### Project 1: Sales Performance Analysis for a Retail Store
+
+**Summary**: This project involves analyzing the sales performance of a retail store. The analysis focuses on identifying top-selling products, regional performance, and monthly sales trends, all showcased in an interactive Power BI dashboard.
+
+#### Instructions and Workflow
+
 **1. Excel**
    - **Data Exploration**: Using pivot tables, summarize sales data by:
      - Total sales by product
@@ -21,6 +27,8 @@
      - Average sales per product
      - Total revenue by region
    - **Additional Reports**: Generate any additional reports that highlight interesting insights.
+   - **Download Excel File**: [Excel Answer for Project 1](https://github.com/omotayo282/LITA/blob/main/Excel%20Answer%20for%20Project%201.xlsx)
+
 
 **2. SQL**
    - **Database Setup**: Load the dataset into SQL Server for query analysis.
