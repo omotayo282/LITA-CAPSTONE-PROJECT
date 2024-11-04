@@ -60,12 +60,20 @@
 
 #### Instructions and Workflow
 
+### Project 2: Customer Segmentation for a Subscription Service
+
+**Summary**: This project focuses on customer segmentation analysis for a subscription service. The analysis identifies customer trends, subscription types, cancellations, and renewals, with results presented in an interactive Power BI dashboard.
+
+#### Instructions and Workflow
+
 **1. Excel**
    - **Customer Data Analysis**: Use pivot tables to:
      - Find patterns in subscription types
      - Calculate average subscription duration
      - Identify popular subscription types
    - **Additional Reports**: Create other reports to uncover further customer insights.
+   - **Download Excel File**: [Excel Answer for Project 2](https://github.com/omotayo282/LITA/blob/main/Excel%20Answer%20for%20Project%202.xlsx)
+
 
 **2. SQL**
    - **Database Setup**: Load the customer dataset into SQL Server to perform data queries.
