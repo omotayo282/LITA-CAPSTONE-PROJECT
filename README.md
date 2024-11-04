@@ -49,6 +49,8 @@
      - Sales overview
      - Top-performing products
      - Regional performance breakdown
+   - **Download Power BI File**: [PROJECT1 Power BI Answers](https://github.com/omotayo282/LITA/blob/main/PROJECT1_PowerBI_Answers.pbix)
+
 
 ---
 
